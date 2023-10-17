@@ -4,7 +4,7 @@ body{
 
 }
 .a{
-    background-image:linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0)), url(/riot2/pics/w23-riotsiteheader-3840x1600.png);
+    background-image:linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0)), url(pics/w23-riotsiteheader-3840x1600.png);
     background-size: cover;
     height: 100vh;
     width: 100%;
